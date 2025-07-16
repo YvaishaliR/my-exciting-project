@@ -2,3 +2,8 @@ This is a sample LICENSE
 adding name Vaishali
 adding place bangalore
 adding month July
+adding date 16
+hello world 
+how are you 
+neat and clean 
+i am awesome 
